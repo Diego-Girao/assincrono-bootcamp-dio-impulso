@@ -6,8 +6,7 @@
 
 # Change Dog 🐶
 
-![image](https://user-images.githubusercontent.com/70491871/141234418-d6c6bb52-a95a-487c-ad37-28b5b55e0d0e.png)
-
+![image](https://user-images.githubusercontent.com/70491871/141660928-b73d4c8d-28d3-42f0-b09b-561787175bb5.png)
 
 ## Objetivo do projeto 📝
 ✅ Consumir uma API(dog ceo), utilizando o fetch, bem simples sem muito código, uma atividade bem light para consolidar a base.
